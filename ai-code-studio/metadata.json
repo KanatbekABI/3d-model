@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Studio",
+  "description": "A professional web code playground and developer studio inspired by CodePen, featuring HTML/CSS/JS editors, sandboxed live preview, console diagnostics, project saving, code export, and an integrated AI coding assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
